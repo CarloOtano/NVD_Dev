@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "NVD_Dev"
+  site-url: "https://CarloOtano.github.io/NVD_Dev"
+  description: "Learning nbDev"
+  repo-branch: main
+  repo-url: "https://github.com/CarloOtano/NVD_Dev"
